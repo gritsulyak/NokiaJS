@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Nokia//DTD PLIST 1.0//EN" "http://www.nokia.com/DTDs/plist-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DisplayName</key>
+	<string>Battery Bars</string>
+	<key>Identifier</key>
+	<string>com.BatteryBars.basic.widget</string>
+	<key>Version</key>
+	<string>1.2</string>
+	<key>AllowNetworkAccess</key>
+	<false/>
+	<key>MainHTML</key>
+	<string>BatteryBars.html</string>
+	<key>MiniViewEnabled</key>
+	<true/>
+</dict>
+</plist>

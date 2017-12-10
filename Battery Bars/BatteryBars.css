@@ -1,0 +1,55 @@
+body {
+	background:  fixed;
+	padding: 5px 5px 5px 5px;
+	background-color: #000000; 
+	background-image: url("0_8.png");
+	background-repeat: repeat-x;
+    margin: 0px;
+    font: normal 24px Arial, sans-serif;
+    color: rgb(255,255,255);
+}
+
+.invis {
+	visibility:hidden;
+}
+
+.vis {
+	visibility:visible;	
+}
+
+.clsMain
+{
+	visibility:visible;
+	font-size: 24px;
+	position:absolute; top: 2px; left: 2px;
+	margin: 5px 5px 5px 5px;
+}
+
+.clsHome {
+	visibility:visible;
+    font-size: 24px;
+    font-weight: bold Arial, sans-serif;
+    padding: 4px 6px;
+    text-align: left;
+	position: absolute; top: 2px; left: 2px;
+}
+
+.PushableBlock {
+	font: bold 36px Arial, sans-serif;
+	position:relative;
+	background-color: #000000;
+	background-image: url("4_8_80.png"); 
+	background-repeat: repeat-x;
+	float: left;
+	padding: 5px 5px 5px 5px ;
+	text-shadow: black 8px 8px 8px ;
+	margin: 3px;
+	width: 140px;
+	height:70px;
+	border: 2px solid #444444;
+	vertical-align:baseline;
+}
+
+.buttons{
+	
+}
